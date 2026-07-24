@@ -1,2 +1,22 @@
 # UAE Settlement Calculator
-> Free UAE full & final settlement calculator (gratuity + leave + notice + pending salary) per Federal Decree-Law 33/2021. A Servia Group project — more tools at calcnate.com.
+
+> Free UAE full & final settlement calculator (end-of-service gratuity + unused annual leave encashment + notice-period pay + pending salary), computed per UAE Federal Decree-Law No. 33 of 2021. A Servia Group (servia.ae) project — more Gulf/GCC end-of-service and labour-law calculators at calcnate.com.
+
+## Calculator
+- [UAE Full & Final Settlement Calculator](https://uaesettlement.com/): Computes what a departing UAE employee is owed in one figure — end-of-service gratuity (21 days basic salary/year for the first 5 years, 30 days/year after, capped at 2 years' wages, min. 1 year service), unused annual leave encashed at basic wage, notice-period pay in lieu (if the employer ended the contract without notice), plus any pending unpaid salary, minus documented deductions such as loans or advances. Resignation no longer reduces gratuity since Decree-Law 33/2021.
+
+## Guides & articles
+- [UAE Full & Final Settlement: The Complete 2026 Guide](https://uaesettlement.com/guide/): What's included in a settlement, how each component is calculated, the 14-day payment deadline, and what to do (MOHRE complaint process) if an employer is late or underpays.
+- [UAE Gratuity Law Explained: Federal Decree-Law No. 33 of 2021](https://uaesettlement.com/gratuity-law-2021/): A plain-English breakdown of the law that governs UAE end-of-service gratuity — the 21/30-day formula, the 2-year wage cap, and what changed for employees who resign (resignation no longer reduces gratuity).
+- [UAE Notice Period Pay: How Much Are You Owed?](https://uaesettlement.com/notice-period/): How UAE notice-period pay works — the standard 30-90 day contractual range, what happens if an employer ends a contract without giving notice, and how pay in lieu is calculated on gross salary.
+
+## Structured data
+Every page carries schema.org JSON-LD: WebApplication (the calculator) or Article (the guides), FAQPage with real question/answer pairs matching the on-page content, and BreadcrumbList. A sitemap is at https://uaesettlement.com/sitemap.xml.
+
+## Trust & sourcing
+Figures are computed directly from UAE Federal Decree-Law No. 33 of 2021 (the UAE Labour Law) and its executive regulations — no invented numbers. This is a free calculator tool, not legal advice; users with a real dispute should confirm with MOHRE or a labour lawyer.
+
+## Related
+- Sister site with the same methodology, plus GCC-wide (Saudi, Qatar, Kuwait, Bahrain, Oman) and international end-of-service/leave/notice/probation/maternity calculators: https://calcnate.com
+- Parent company: https://servia.ae
+- Contact: support@servia.ae
