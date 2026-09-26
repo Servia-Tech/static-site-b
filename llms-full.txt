@@ -1,0 +1,1219 @@
+# UAE Settlement (uaesettlement.com) - full content
+
+> Plain-text copy of every guide and calculator explanation on https://uaesettlement.com, for AI assistants and search tools. General information about UAE end-of-service entitlements, not legal advice. Content last reviewed 2026-09-26. Summary index: https://uaesettlement.com/llms.txt
+
+
+---
+
+## UAE Final Settlement Calculator
+
+URL: https://uaesettlement.com/
+
+End-of-service gratuity + leave encashment + notice + pending salary — per UAE Federal Decree-Law No. 33 of 2021.
+
+### The short answer
+
+A UAE final settlement is the end-of-service gratuity plus cash for unused annual leave, any unpaid salary and notice pay, minus documented amounts you owe. For mainland private-sector employees, gratuity under Article 51 of Federal Decree-Law No. 33 of 2021 is 21 days' basic wage per year for the first five years and 30 days' basic wage per year after that, pro rata for part years, capped at two years' wage, and only after at least one year of continuous service. The employer must pay everything within 14 days of the contract ending (Article 53). Resigning no longer reduces gratuity.
+
+### Frequently asked questions
+
+**Q: How is end-of-service gratuity calculated in the UAE?**
+
+Under Article 51 of Federal Decree-Law No. 33 of 2021 (mainland UAE), an employee who completes at least one year of continuous service is entitled to end-of-service gratuity of 21 days' basic wage for each of the first 5 years and 30 days' basic wage for each year beyond 5 years, paid pro rata for part years. Total gratuity cannot exceed 2 years' wage. Like most calculators, this one uses a daily wage of basic monthly salary ÷ 30 and applies the cap as 24 months of basic salary; the law itself says "two years' wage". Days of unpaid absence do not count toward service.
+
+**Q: What is included in a UAE full and final settlement?**
+
+End-of-service gratuity, cash for unused annual leave (paid at basic wage), pending unpaid salary for days worked, notice-period pay if the notice period was not worked, minus documented amounts you owe the employer such as loans or advances. A return ticket may also apply depending on your contract.
+
+**Q: When must my final settlement be paid in the UAE?**
+
+Within 14 days of the date the employment contract ends (Article 53 of Federal Decree-Law No. 33 of 2021). If it is late or wrong, you can file a complaint with MOHRE.
+
+**Q: Do I lose gratuity if I resign?**
+
+No. Under Federal Decree-Law No. 33 of 2021 (in force since 2 February 2022), gratuity is calculated the same way whether you resign or are terminated, provided you have at least one year of continuous service. The old reductions for resigning from an unlimited contract no longer apply.
+
+⚠️ Estimate only — not legal or financial advice. This tool follows the mainland UAE Federal Decree-Law No. 33 of 2021 (Articles 51 and 53; official MOHRE English text). Free zones (e.g. DIFC, ADGM), domestic workers, and specific contract terms can differ. For a binding figure, check with your employer's HR or the UAE Ministry of Human Resources & Emiratisation (MOHRE).
+
+---
+
+## UAE End of Service Calculator
+
+URL: https://uaesettlement.com/end-of-service-calculator/
+
+Your end-of-service benefit on basic salary, with the 21-day and 30-day bands shown separately and the statutory cap applied.
+
+### The short answer
+
+For mainland UAE private-sector employees, end-of-service gratuity under Article 51 of Federal Decree-Law No. 33 of 2021 is 21 days' basic wage for each of the first five years of service and 30 days' basic wage for each year after that, paid pro rata for part years. You need at least one year of continuous service, the total cannot exceed two years' wage, and it is the same whether you resign or are terminated. Example: AED 6,000 basic and 6 years 4 months of service gives about AED 29,000.
+
+### How UAE end of service is calculated
+
+Under Federal Decree-Law No. 33 of 2021, end-of-service gratuity is built from two bands, both paid on basic salary:
+
+| Length of service | Entitlement per year |
+| Less than 1 year | No gratuity |
+| 1 to 5 years | 21 days of basic salary per year |
+| Each year beyond 5 | 30 days of basic salary per year |
+| Overall maximum | 2 years' wage (Article 51) | 
+
+The usual method, used here, takes the daily wage as monthly basic salary divided by 30 (the law counts a month as 30 days; it does not spell out a daily-wage formula for gratuity). So one year in the first band is basic ÷ 30 × 21, and one year in the second band is simply one month of basic pay.
+
+### A worked example
+
+Take a basic salary of AED 6,000 and 6 years 4 months of service:
+
+- Daily wage = 6,000 ÷ 30 = AED 200
+
+- First 5 years = 5 × 21 × 200 = AED 21,000
+
+- Remaining 1 year 4 months = 1.333 × 30 × 200 = AED 8,000
+
+- Total = AED 29,000
+
+The cap is two years' wages — here 2 × 12 × 6,000 = AED 144,000 — so it does not bite. Because the cap equals 720 days of basic pay (105 days for the first five years plus 30 days for each later year), it is only reached after about 25.5 years of continuous service, whatever the salary.
+
+### Partial years count
+
+Once you pass one year of service, additional months are paid pro rata. There is no rounding up to the next whole year and no requirement to complete a further full year to be paid for the months you worked.
+
+### What is not in this figure
+
+End-of-service gratuity is one component of your final settlement. The rest is calculated separately:
+
+- Unused annual leave — encashed at basic salary. Calculate leave encashment →
+
+- Notice period pay — if your employer ends the contract without requiring you to work the notice. How notice pay works →
+
+- Pending salary for days worked in your final month
+
+- Repatriation ticket — the employer bears the cost of your return to your place of recruitment unless you have joined another employer or the termination was your fault (Article 13(12)); an annual ticket depends on your contract
+
+Calculate your full settlement instead →
+
+### Frequently asked questions
+
+**Q: How do I calculate end of service in the UAE?**
+
+Divide your monthly basic salary by 30 to get a daily wage. Multiply that by 21 for each of your first five years, and by 30 for each year after five. Add the two together. Service under one year earns no gratuity, and the total is capped at two years' wages.
+
+**Q: Is end of service calculated on basic or gross salary?**
+
+Basic salary only. Housing, transport, phone and all other allowances are excluded, which is why the gratuity figure is usually much smaller than employees expect from a gross salary.
+
+**Q: Do I lose gratuity if I resign?**
+
+No. Federal Decree-Law 33/2021, in force since February 2022, removed the old reductions for resignation. Anyone with more than one year of continuous service receives the full calculation whether they resign or are terminated.
+
+**Q: Does unpaid leave reduce my gratuity?**
+
+Yes. Periods of unpaid leave do not count as service, so they are deducted from the total length of service used in the calculation. Paid annual leave counts normally.
+
+**Q: When must my gratuity be paid?**
+
+Within 14 days of the contract end date. If your employer misses that deadline you can file a complaint with MOHRE.
+
+**Q: Is there a maximum gratuity in the UAE?**
+
+Yes, total gratuity cannot exceed two years' wage (Article 51 of Federal Decree-Law 33/2021). Measured in basic pay, that ceiling is only reached after about 25.5 years of continuous service, whatever the salary.
+
+⚠️ Estimate only — not legal advice. Figures follow mainland UAE Federal Decree-Law No. 33 of 2021 (Articles 51 and 53). The law caps gratuity at "two years' wage"; this calculator applies the cap as 24 months of basic salary, which is the common interpretation. DIFC, ADGM, domestic workers and some free zones follow different rules. For a binding figure contact MOHRE or a licensed UAE labour lawyer.Source: Federal Decree-Law No. 33 of 2021 and its amendments (official MOHRE English translation, PDF). The Arabic text prevails.
+
+---
+
+## Domestic Worker Gratuity in the UAE: Maids, Nannies & Drivers
+
+URL: https://uaesettlement.com/domestic-workers-gratuity/
+
+What the current law actually says, where the famous “14 days per year” came from, and what a domestic worker is definitely owed when the job ends.
+
+### The short, honest answer
+
+Domestic workers — housemaids, nannies, cooks, private drivers and 15 other listed occupations — are not covered by the general UAE labour law and its famous 21/30-day gratuity formula. They have their own law: Federal Decree-Law No. 9 of 2022 on Domestic Workers, in force since December 2022, with Executive Regulations issued by Cabinet Resolution No. 106 of 2022.
+
+And here is what most websites get wrong: the current domestic-worker law does not contain a gratuity formula at all. Article 22 of the Decree-Law says only that, on the Minister’s recommendation, the Cabinet shall adopt the rules and regulations for calculating and paying end-of-service gratuity for domestic workers. Until such a system is issued, there is no fixed statutory number of days per year written into the law — what is payable in practice depends on the MOHRE-approved employment contract and MOHRE’s own guidance and calculator.
+
+### Where the “14 days per year” figure comes from
+
+You will see “14 days of pay per year of service” quoted all over the internet. That figure is real — but it comes from the previous law. Article 26 of Federal Law No. 10 of 2017 entitled a domestic worker who completed at least 1 year of continuous service to an end-of-service benefit of 14 days’ wage for each year of service.
+
+Federal Law No. 10 of 2017 was repealed when Federal Decree-Law No. 9 of 2022 took effect, and the new law did not restate the 14-day formula. Legal commentators are split on what that means in practice:
+
+- Some practitioners take the position that no statutory gratuity is currently payable to domestic workers, because neither the 2022 law nor Cabinet Resolution No. 106 of 2022 specifies one.
+
+- Others argue an end-of-service benefit is still owed where the employment contract provides for it — and the contract prevails in any circumstance.
+
+💡 Practical bottom line: check the MOHRE-approved contract first — it is the strongest basis for any gratuity claim — and use MOHRE’s official Domestic Worker Calculator (mohre.gov.ae → Services) to see the Ministry’s own current computation of end-of-service entitlements for your dates, salary and termination reason. Where a MOHRE figure and a website figure disagree, trust MOHRE.
+
+### Who counts as a domestic worker?
+
+The law applies to 19 occupations listed under the Decree-Law and its regulations, including: housemaid, housekeeper, cook, nanny/babysitter, private/family driver, guard, gardener, farm worker, personal trainer/coach, private tutor, home nurse, personal assistant, falcon care-taker, sailor, shepherd, jockey, animal tamer, private agricultural engineer and general domestic worker.
+
+If your job is one of these and your work permit was issued under the domestic-worker system, this page applies to you. If you are employed by a mainland company under an ordinary MOHRE work permit, the general labour law applies instead — see our guide to Federal Decree-Law 33/2021 and use the settlement calculator.
+
+### What a domestic worker IS clearly owed at the end of service
+
+Whatever the position on gratuity, the 2022 law is explicit about several end-of-service entitlements:
+
+- All unpaid wages — wages must be paid in UAE dirhams and, during employment, within 10 days of falling due (Article 15).
+
+- Cash for untaken annual leave — annual leave is at least 30 days per year (2 days per month if you served 6–12 months). If the contract ends before you took your leave, you get cash compensation for the leave days due, calculated at your last wage (Article 10).
+
+- A return ticket home — if the employer terminates the agreement for a reason not attributed to the worker, the employer must provide the ticket for your return home (Article 20). A round-trip home ticket every 2 years also applies during service.
+
+- Anything extra the contract promises — the MOHRE standard contract records wage, leave and termination terms; contractual promises are enforceable.
+
+Deadline: the employer must pay all financial entitlements within 10 days of the employment agreement’s expiry (Article 19(9)) — note this is shorter than the 14-day deadline for mainland private-sector employees.
+
+### Domestic worker vs. mainland employee: the key differences
+
+| | Domestic worker | Mainland employee |
+| Law | Federal Decree-Law 9/2022 | Federal Decree-Law 33/2021 |
+| Gratuity formula in the law | None — left to Cabinet; contract & MOHRE guidance govern (old 2017 law: 14 days/year) | 21 days/year (first 5 yrs), 30 days/year after, capped at 2 years’ wage |
+| Settlement deadline | 10 days from contract end | 14 days from contract end |
+| Annual leave | 30 days/year minimum | 30 days/year |
+| Sick leave | Up to 30 days/year (first 15 paid, next 15 half-paid) | Up to 90 days/year (15 full, 30 half, 45 unpaid) |
+| Contract type | Fixed 2-year term, renewable | Fixed-term (limited) contracts |
+| Probation | Up to 6 months | Up to 6 months |
+| Claim time limit | 3 months from end of work relationship | 2 years from the end of the employment relationship (Art. 54(9), as amended in 2024) | 
+
+Mainland employee? Calculate your settlement →
+
+### How to claim unpaid dues (step by step)
+
+- Ask in writing first. Message the employer (or the recruitment agency, in a temporary-employment arrangement) requesting settlement — keep the record.
+
+- File a complaint with MOHRE (app, website or call centre 600590000). The Ministry attempts an amicable settlement between the parties.
+
+- MOHRE can decide the case itself — for disputes up to AED 50,000, the Ministry’s decision has the force of a writ of execution (Article 23, as amended by Federal Decree-Law No. 21 of 2023). Either party may appeal to the Court of Appeal within 15 working days of being notified, and the court decides within 15 working days.
+
+- Court, if needed — domestic-worker lawsuits are exempt from all judicial fees at every stage and are treated as urgent.
+
+- Do not wait: claims are time-barred 3 months after the work relationship ends (Article 26) — much shorter than the 1 year mainland employees get.
+
+### Frequently asked questions
+
+**Q: Do domestic workers get gratuity in the UAE?**
+
+It is no longer automatic. The current law (Federal Decree-Law 9/2022) sets no gratuity formula — Article 22 leaves the calculation system to the Council of Ministers, and Cabinet Resolution 106/2022 does not specify one either. What is payable depends on the MOHRE-approved contract and MOHRE’s guidance. The repealed 2017 law granted 14 days’ wage per year of service.
+
+**Q: Where does the “14 days per year” figure come from?**
+
+Article 26 of the old Federal Law No. 10 of 2017, which gave a domestic worker with at least 1 year of continuous service an end-of-service benefit of 14 days’ wage per year. That law was repealed by Federal Decree-Law 9/2022, which does not restate the formula.
+
+**Q: Which law covers housemaids, nannies and drivers?**
+
+Federal Decree-Law No. 9 of 2022 on Domestic Workers plus Cabinet Resolution No. 106 of 2022 — not the general labour law (33/2021). It covers 19 listed occupations.
+
+**Q: When must the final settlement be paid?**
+
+Within 10 days of the employment agreement’s end (Article 19(9)) — shorter than the 14 days for mainland employees.
+
+**Q: What is definitely owed at the end of service?**
+
+All unpaid wages; cash compensation at the last wage for untaken annual leave (30 days/year minimum); a return ticket home if the employer ended the contract for a reason not attributed to the worker; and anything additional the contract promises.
+
+**Q: How do I claim if the employer refuses to pay?**
+
+Complain to MOHRE first; the Ministry can issue a binding decision on claims up to AED 50,000. Court cases are free of judicial fees for domestic workers. File within 3 months of the work relationship ending or the claim is time-barred.
+
+⚠️ General information — not legal advice. This page summarises Federal Decree-Law No. 9 of 2022 (official MOHRE English translation) as amended by Federal Decree-Law No. 21 of 2023, its Executive Regulations (Cabinet Resolution No. 106 of 2022) and the repealed Federal Law No. 10 of 2017. The gratuity position for domestic workers is genuinely unsettled — for a binding figure, use MOHRE’s official Domestic Worker Calculator at mohre.gov.ae, call MOHRE on 600590000, or consult a licensed UAE labour lawyer.
+
+---
+
+## UAE Gratuity Law Explained: Federal Decree-Law No. 33 of 2021
+
+URL: https://uaesettlement.com/gratuity-law-2021/
+
+The exact formula, the 2-year cap, and what changed for anyone who resigns.
+
+### The law behind every UAE gratuity calculation
+
+Every gratuity figure on this site — and every gratuity payment made by a mainland UAE employer — is governed by one law: Federal Decree-Law No. 33 of 2021 on the Regulation of Labour Relations, which came into effect on 2 February 2022. It replaced the older Federal Law No. 8 of 1980 and modernised several parts of UAE employment law, including how end-of-service gratuity is worked out.
+
+### The gratuity formula, in plain English
+
+If you have completed at least 1 year of continuous service, you are entitled to gratuity calculated as:
+
+| Years of service | Gratuity per year |
+| First 5 years | 21 days of basic salary, per year |
+| Every year beyond 5 | 30 days of basic salary, per year | 
+
+Gratuity is calculated on the last basic wage (Article 51(5)) — allowances like housing, transport or commission are not included. The usual method takes the daily wage as basic monthly salary ÷ 30. Article 51(6) caps the total at two years' wage, however long you actually worked; calculators, including ours, normally apply this as 24 months of basic salary.
+Source: Federal Decree-Law No. 33 of 2021 and its amendments (official MOHRE English translation, PDF). The Arabic text prevails.
+
+Work out my exact gratuity →
+
+### What actually changed in 2021 — and why it matters if you resign
+
+The most significant practical change for most people is this: under the old 1980 law, employees on unlimited contracts who resigned (rather than being terminated) had their gratuity cut on a sliding scale — as little as one-third of the full amount after 1-3 years of service, two-thirds after 3-5 years, and full gratuity only after 5+ years.
+
+Federal Decree-Law No. 33 of 2021 removed that reduction entirely. Today, whether you resign or are terminated makes no difference to your gratuity amount, as long as you completed at least 1 year of continuous service. The only thing that still matters is your length of service and your basic salary.
+
+### What the law does not cover
+
+- DIFC and ADGM have their own employment laws, not Federal Decree-Law 33/2021. DIFC replaced gratuity with the DEWS savings plan; ADGM keeps a gratuity (21/30 days' basic wage, capped at two years' wage) under its Employment Regulations 2019. Most other free zones follow the federal law.
+
+- Domestic workers (maids, drivers, nannies) are covered by a separate law, Federal Decree-Law No. 9 of 2022 — see our domestic worker gratuity guide.
+
+- Less than 1 year of continuous service means no gratuity is owed under the law, regardless of how the job ended.
+
+### Frequently asked questions
+
+**Q: What is UAE Federal Decree-Law No. 33 of 2021?**
+
+It is the current UAE labour law that took effect on 2 February 2022, replacing the older Federal Law No. 8 of 1980. It governs mainland UAE employment contracts, including end-of-service gratuity, notice periods, working hours and leave.
+
+**Q: Do I still get gratuity if I resign in the UAE?**
+
+Yes. Under Federal Decree-Law No. 33 of 2021, resignation no longer reduces your gratuity. Anyone with more than 1 year of continuous service receives the full 21/30-day calculation, regardless of whether they resigned or were terminated.
+
+**Q: Is there a maximum amount of gratuity I can receive?**
+
+Yes. Article 51(6) says total gratuity may not exceed two years' wage, no matter how long you worked. It is usually applied as 24 months of basic salary, which is only reached after about 25.5 years of service.
+
+**Q: What was different under the old UAE labour law before 2022?**
+
+Under the old Federal Law No. 8 of 1980, employees on unlimited contracts who resigned (rather than were terminated) had their gratuity reduced on a sliding scale — as little as one-third after 1-3 years of service. That reduction was removed entirely under the 2021 law.
+
+⚠️ Estimate only — not legal advice. This page summarises mainland UAE Federal Decree-Law No. 33 of 2021. Free zones and domestic-worker contracts follow different rules. For a binding figure, check with MOHRE or a licensed UAE labour lawyer.
+
+---
+
+## UAE Full & Final Settlement: The Complete 2026 Guide
+
+URL: https://uaesettlement.com/guide/
+
+What's included, how each part is worked out, payment deadlines, and what to do if you're paid late or underpaid.
+
+### What is a "full and final settlement" in the UAE?
+
+When your UAE employment ends — whether you resign, are terminated, or your fixed-term contract simply expires — your employer owes you a "full and final settlement": every payment you're legally entitled to for the time you worked, calculated as of your last working day. Under mainland UAE law (Federal Decree-Law No. 33 of 2021 on the Regulation of Labour Relations), this settlement is made up of several distinct parts, and understanding each one helps you check that what lands in your bank account is actually correct.
+
+### The five parts of a UAE final settlement
+
+- End-of-service gratuity — for anyone who has completed at least one year of continuous service, calculated on basic salary (see the gratuity law breakdown below).
+
+- Unused annual leave, encashed — any earned annual leave days you haven't taken are paid out at your basic daily wage.
+
+- Pending salary — any days you already worked but haven't been paid for yet.
+
+- Notice-period pay — if your employer ends your contract without giving you the notice period stated in your contract (commonly 30 to 90 days), they owe you pay in lieu of that notice.
+
+- Any contractual extras — such as an annual flight ticket or repatriation allowance, only if your contract specifically promises it.
+
+From this total, your employer can legally deduct documented amounts you owe them — for example an outstanding personal loan, a salary advance, or the cost of company property you didn't return.
+
+Calculate my full settlement →
+
+### How long do you have to wait to be paid?
+
+Under UAE labour law, your employer must pay your full and final settlement within 14 days of your last working day. This is a strict statutory deadline, not a guideline — it applies whether you resigned or were terminated, and it applies regardless of company size.
+
+### What if my employer is late or pays the wrong amount?
+
+First, ask HR directly and in writing (email is best, so there's a record) for a breakdown of how your settlement was calculated — this alone resolves many honest payroll mistakes. If the 14-day deadline passes with no payment, or the breakdown clearly doesn't match the law:
+
+- File a labour complaint with the Ministry of Human Resources & Emiratisation (MOHRE) — via the MOHRE smart app, the MOHRE call centre (600590000), or in person at a Tas'heel/typing centre.
+
+- MOHRE will first attempt conciliation between you and your employer.
+
+- If that fails, MOHRE can decide claims of up to AED 50,000 itself (appealable to the Court of Appeal); larger claims are referred to the court, which can order payment of the outstanding amount.
+
+- Keep your employment contract, salary slips, and any correspondence — these are exactly what MOHRE and the court will ask for.
+
+### Frequently asked questions
+
+**Q: How long does an employer have to pay my final settlement in the UAE?**
+
+14 days from the date your employment contract ends, under UAE labour law (Federal Decree-Law No. 33 of 2021). If your employer misses this deadline, you can file a complaint with MOHRE.
+
+**Q: What happens if my employer refuses to pay my final settlement?**
+
+File a labour complaint with the Ministry of Human Resources & Emiratisation (MOHRE), either through the MOHRE app, the MOHRE call centre (600590000), or a Tas'heel/typing centre. MOHRE will attempt conciliation first; it can decide claims of up to AED 50,000 itself, and larger unresolved cases are referred to the court, which can order payment plus, in some cases, additional compensation for delay.
+
+**Q: Does my final settlement include my flight ticket home?**
+
+A one-way repatriation ticket, yes in most cases: Article 13(12) of Federal Decree-Law 33/2021 makes the employer bear the cost of returning you to your place of recruitment (or another agreed place), unless you have already joined another employer or the contract ended for a reason attributed to you. An annual leave ticket is not a statutory right; it depends on your contract.
+
+**Q: Is my final settlement the same if I work in a free zone like DIFC or ADGM?**
+
+Not exactly. Mainland UAE employment follows Federal Decree-Law No. 33 of 2021. Free zones such as DIFC and ADGM have their own employment regulations with different gratuity formulas, so always check the specific free zone's law rather than assuming the mainland rules apply.
+
+⚠️ Estimate only — not legal advice. This guide follows mainland UAE Federal Decree-Law No. 33 of 2021. Free zones, domestic workers, and individual contract terms can differ. For a binding figure or a formal dispute, contact MOHRE or a licensed UAE labour lawyer.
+
+Source: Federal Decree-Law No. 33 of 2021 and its amendments (official MOHRE English translation, PDF). The Arabic text prevails.
+
+---
+
+## Gratuity After 5 Years: the 21 vs 30 Day Bands
+
+URL: https://uaesettlement.com/gratuity-after-5-years/
+
+Passing five years raises your rate — but only for the years that follow. Here is the mistake almost everyone makes.
+
+### The misconception
+
+Federal Decree-Law 33/2021 sets two rates: 21 days of basic pay per year for the first five years, and 30 days per year thereafter. A very common assumption is that once you cross five years, the whole period is recalculated at 30 days.
+
+It is not. The bands are cumulative, not retroactive. Your first five years stay at 21 days permanently; only the sixth year onward earns 30.
+
+| Service | Correct calculation | Common wrong answer |
+| 6 years | (5 × 21) + (1 × 30) = 135 days | 6 × 30 = 180 days |
+| 10 years | (5 × 21) + (5 × 30) = 255 days | 10 × 30 = 300 days |
+| 15 years | (5 × 21) + (10 × 30) = 405 days | 15 × 30 = 450 days | 
+
+On a basic salary of AED 6,000, the ten-year difference between the correct and the wrong figure is AED 9,000 — enough to be worth understanding before you sign a settlement.
+
+### Worked example: exactly 5 years vs 5 years and 1 month
+
+Basic salary AED 9,000, so the daily wage is 9,000 ÷ 30 = AED 300.
+
+At exactly 5 years
+5 × 21 × 300 = AED 31,500
+
+At 5 years and 1 month
+
+- First 5 years: 5 × 21 × 300 = AED 31,500
+
+- Extra month: (1 ÷ 12) × 30 × 300 = AED 750
+
+- Total: AED 32,250
+
+So the sixth year is worth about 43% more per month than the fifth. There is no cliff or bonus at the five-year mark — just a higher rate from that point forward.
+
+Calculate your own figure →
+
+### The two-year cap, and when it actually applies
+
+Total gratuity cannot exceed two years' wages. People worry about this far more than they need to. Working through it:
+
+- Applied on basic pay (the usual reading of "two years' wage" in Article 51(6)), two years = 24 months = 720 days of basic pay
+
+- The first five years produce 105 days
+
+- Each further year produces 30 days
+
+- 720 − 105 = 615 days, ÷ 30 = 20.5 further years
+
+The cap therefore only bites at roughly 25.5 years of continuous service with one employer. For the overwhelming majority of employees it is irrelevant.
+
+### Things that do and do not affect the bands
+
+| Factor | Effect on your gratuity |
+| Resigning rather than being terminated | None — since February 2022 |
+| A salary increase during service | Calculated on your last basic salary, so a rise raises the whole figure |
+| Unpaid leave | Does not count as service, so it reduces the total |
+| Paid annual leave | Counts normally |
+| Allowances (housing, transport) | Excluded — basic salary only |
+| Probation period | Counts towards service once you pass one year overall | 
+
+The salary point is worth dwelling on. Because gratuity uses your final basic salary rather than an average, a promotion shortly before leaving increases the value of every prior year. This is the single largest lever on the final number, and it is the opposite of how funded schemes such as DIFC's DEWS work.
+
+### Frequently asked questions
+
+**Q: Does gratuity double after 5 years in the UAE?**
+
+No. The rate rises from 21 to 30 days per year, but only for years after the fifth. Your first five years remain at 21 days each and are not recalculated.
+
+**Q: How much gratuity do I get after 10 years in the UAE?**
+
+255 days of basic pay: five years at 21 days (105 days) plus five years at 30 days (150 days). On a basic salary of AED 6,000, that is roughly AED 51,000.
+
+**Q: Is UAE gratuity capped?**
+
+Yes, at two years' total wages. In practice that ceiling is only reached after roughly 25 years of continuous service with the same employer, so it rarely applies.
+
+**Q: Is gratuity based on my first or last salary?**
+
+Your last basic salary. A pay rise late in your service therefore increases the value of all your earlier years, which makes final-salary gratuity notably generous for long-serving employees who have been promoted.
+
+**Q: Does my probation period count towards gratuity?**
+
+Yes, provided you go on to complete at least one year of continuous service overall. Probation is part of your service, not separate from it.
+
+**Q: Do I get more gratuity if I am made redundant rather than resigning?**
+
+Not in terms of gratuity — the calculation is identical either way. Termination may give rise to separate claims, such as compensation for arbitrary dismissal, but the gratuity figure itself does not change.
+
+⚠️ Estimate only — not legal advice. Figures follow mainland UAE Federal Decree-Law No. 33 of 2021. DIFC, ADGM, domestic workers and some free zones differ.
+
+Source: Federal Decree-Law No. 33 of 2021 and its amendments (official MOHRE English translation, PDF). The Arabic text prevails.
+
+---
+
+## UAE Leave Salary & Encashment Calculator
+
+URL: https://uaesettlement.com/leave-salary-calculator/
+
+What your untaken annual leave is worth at the end of service — including how many days you have actually accrued.
+
+### How much annual leave are you entitled to?
+
+| Length of service | Annual leave entitlement |
+| Under 6 months | None as of right |
+| 6 to 12 months | 2 days per month worked |
+| Over 1 year | 30 calendar days per year | 
+
+Note that the 30 days are calendar days, not working days — so weekends falling inside a leave period are counted. This is one of the most common misunderstandings about UAE annual leave, and it is why 30 days of entitlement is closer to 22 working days in practice.
+
+### The basic-versus-gross trap
+
+This is where most employees are short-changed, and the rule is not intuitive:
+
+- When you take annual leave during employment, you are paid your normal full salary including allowances.
+
+- When unused leave is encashed at the end of service, it is paid on basic salary only.
+
+On a gross of AED 10,000 with a basic of AED 6,000, each encashed day is worth AED 200, not AED 333. Across 30 days that is a difference of about AED 4,000.
+
+### How the daily rate is worked out
+
+daily leave rate = monthly basic ÷ 30
+
+Then multiply by the number of unused days. The divisor is 30 regardless of how many days are in the actual month.
+
+### Can my employer make me forfeit unused leave?
+
+No. Unused annual leave that you were entitled to cannot simply be cancelled at the end of service — it must be paid. What an employer can generally do during employment is set the timing of leave and require you to take it, and many contracts limit how much leave can be carried forward from one year to the next. A carry-forward limit is not the same as forfeiting leave you accrued in the year you left.
+
+If your final settlement shows zero leave encashment despite untaken leave, that is one of the most common grounds for a MOHRE complaint. How to file a complaint →
+
+### Frequently asked questions
+
+**Q: How is leave salary calculated in the UAE?**
+
+Divide your monthly basic salary by 30 to get a daily rate, then multiply by the number of unused annual leave days. Encashment at the end of service is paid on basic salary, not gross.
+
+**Q: How many annual leave days do I get in the UAE?**
+
+30 calendar days a year once you have completed one year of service. Between six and twelve months you accrue two days per month. Under six months there is no statutory entitlement.
+
+**Q: Are the 30 days working days or calendar days?**
+
+Calendar days. Weekends and public holidays falling inside your leave period are counted within the 30 days, which is why the practical figure is closer to 22 working days.
+
+**Q: Is leave encashment paid on basic or gross salary?**
+
+Basic salary when it is encashed at the end of service. When you actually take leave during employment you are paid your full normal salary including allowances. The difference catches out most employees.
+
+**Q: Can my employer refuse to pay for unused leave?**
+
+No. Leave you have accrued and not taken must be paid on termination. Contracts may limit carry-forward between years, but that is different from cancelling leave accrued in your final year.
+
+**Q: Do public holidays count against my annual leave?**
+
+Public holidays are a separate paid entitlement when you are working. But if a public holiday falls inside your annual leave, Article 29(7) of Federal Decree-Law 33/2021 counts it as part of the leave, unless your contract or company regulations are more favourable.
+
+⚠️ Estimate only — not legal advice. Figures follow mainland UAE Federal Decree-Law No. 33 of 2021. Free zones, DIFC, ADGM and domestic workers can differ, and many contracts are more generous than the statutory minimum.
+
+Source: Federal Decree-Law No. 33 of 2021 and its amendments (official MOHRE English translation, PDF). The Arabic text prevails.
+
+---
+
+## UAE Notice Period Pay: How Much Are You Owed?
+
+URL: https://uaesettlement.com/notice-period/
+
+The 30-90 day rule, and what you're owed if your employer skips it.
+
+### The UAE notice period, in brief
+
+Under Federal Decree-Law No. 33 of 2021, both you and your employer must give notice before ending an employment contract. The notice period is between 30 and 90 days, and the exact number should be written into your employment contract. If your contract is silent on the point, the statutory default is 30 days.
+
+### If your employer ends your contract without notice
+
+If your employer terminates you and does not give you the full notice period stated in your contract, they must instead pay you compensation equal to your gross salary for the unworked portion of that notice period. This is separate from — and in addition to — your gratuity, leave encashment and any pending salary.
+
+For example, if your contract requires 60 days' notice and your employer ends your contract with immediate effect, you are owed 60 days of gross salary as notice-period pay, on top of everything else in your final settlement.
+
+Add my notice pay to my settlement →
+
+### Basic salary vs. gross salary — why it matters here
+
+This is one of the most commonly confused points in a UAE settlement. Gratuity is calculated on your basic salary only. Notice-period pay, along with pending/unpaid salary, is calculated on your gross salary — your basic pay plus allowances such as housing and transport. If your contract clearly separates basic from gross salary, always use gross for the notice-pay figure; using basic salary by mistake will understate what you're owed.
+
+### If you resign, do you have to work the full notice period?
+
+Generally, yes — unless your employer agrees in writing to release you earlier, or agrees to accept payment in lieu of notice instead of you working it. If you simply stop showing up before your notice period ends without your employer's agreement, they may be entitled to deduct a compensation amount from your final settlement, so it's always worth getting any early-release agreement in writing.
+
+### Frequently asked questions
+
+**Q: What is the standard notice period in the UAE?**
+
+UAE law requires a notice period of between 30 and 90 days, with the exact number set out in your employment contract. If your contract doesn't specify a period, the default under Federal Decree-Law No. 33 of 2021 is 30 days.
+
+**Q: What happens if my employer ends my contract without giving notice?**
+
+Your employer owes you compensation equal to your gross salary (basic plus allowances) for the notice period you should have received, even though you are not required to keep working it.
+
+**Q: Is notice-period pay calculated on basic or gross salary?**
+
+Gross salary — unlike gratuity, which uses basic salary only, notice-period pay is based on your full gross monthly salary including allowances.
+
+**Q: Do I have to work my full notice period if I resign?**
+
+Generally yes, unless your employer agrees to release you early or pay you in lieu of notice. If you leave before completing your notice period without your employer's agreement, they may be entitled to deduct compensation from your final settlement.
+
+⚠️ Estimate only — not legal advice. This page follows mainland UAE Federal Decree-Law No. 33 of 2021. Free zones and individual contract terms can differ. For a binding figure or a dispute, contact MOHRE or a licensed UAE labour lawyer.
+
+Source: Federal Decree-Law No. 33 of 2021 and its amendments (official MOHRE English translation, PDF). The Arabic text prevails.
+
+---
+
+## Unpaid Salary or Gratuity: How to Complain to MOHRE
+
+URL: https://uaesettlement.com/unpaid-salary-complaint/
+
+If your employer has not paid, there is a free, established process — and you do not need a lawyer to start it.
+
+### First, check the deadline has actually passed
+
+Under Federal Decree-Law 33/2021, your employer must pay your full final settlement within 14 days of the contract end date. Before escalating, confirm:
+
+- Your last working day, and whether 14 days have genuinely elapsed
+
+- Whether a partial payment has been made — this changes what you are claiming
+
+- Whether a written explanation for a deduction has been given
+
+A great many disputes are actually calculation disagreements rather than refusals to pay — most often gratuity computed on the wrong salary base, or leave encashment omitted. Work out what you believe you are owed first, so your complaint states a specific figure.
+
+Calculate what you are owed →
+
+### Step 1 — Raise it in writing with your employer
+
+Send a short, factual email to HR stating what is unpaid, the amount, and the statutory 14-day deadline. Keep it unemotional and specific. This matters for two reasons: it often resolves the issue immediately, and if it does not, it becomes evidence that you attempted to settle the matter directly.
+
+Keep every reply. Do not rely on verbal assurances or WhatsApp voice notes.
+
+### Step 2 — File a labour complaint
+
+If your employer is mainland, the complaint goes to the Ministry of Human Resources and Emiratisation. There are several routes:
+
+- The MOHRE app or the MOHRE website
+
+- The MOHRE call centre on 600590000
+
+- A Tas'heel service centre in person
+
+Filing is free. You do not need a lawyer at this stage, and you should be wary of anyone charging a large fee simply to submit the form for you.
+
+If your employer is in a free zone, the complaint usually goes to the free zone authority that registered your contract instead. If you are in DIFC or ADGM, those have their own employment tribunals and processes entirely. Which regime applies to you →
+
+### Step 3 — Conciliation
+
+MOHRE attempts to settle the dispute between the parties first. Both sides are called, the claim is reviewed, and a settlement is proposed. Many cases end here, because the process is quick and employers generally prefer not to escalate.
+
+If conciliation does not resolve it, MOHRE decides the dispute itself where the claim is AED 50,000 or less (or where the employer has breached an earlier amicable settlement); either party can appeal that decision to the Court of Appeal within 15 working days. Larger claims are referred to the court (Article 54 of Federal Decree-Law 33/2021, as amended by Federal Decree-Law 9/2024).
+
+### Evidence to gather before you file
+
+The strength of your case depends almost entirely on documentation. Collect:
+
+- Your employment contract — this establishes your basic salary, which drives the gratuity and leave calculations
+
+- Payslips and bank statements showing what was actually paid
+
+- WPS records if you were paid through the Wage Protection System — MOHRE can see these directly and they are strong evidence
+
+- Your resignation or termination letter, establishing the end date and who ended the contract
+
+- Leave records showing days accrued and taken
+
+- Any written exchange about the unpaid amount
+
+The contract matters most. Because gratuity and leave encashment are both calculated on basic salary, a contract that does not clearly separate basic from allowances is the root of a large share of disputes.
+
+### Practical points worth knowing
+
+- Do not sign a settlement you disagree with. A signed full-and-final receipt makes a later claim substantially harder. If pressured, say you need time to review it.
+
+- Your visa and your money are separate matters. An employer cannot lawfully make payment conditional on you waiving claims, and visa cancellation is a distinct process.
+
+- Time limits apply. Claims under the labour law are not heard after two years from the end of the employment relationship (Article 54(9), as amended in 2024). Do not let it drift.
+
+- Leaving the country does not extinguish your claim, but it makes pursuing it considerably harder in practice. Start the process before you go if you can.
+
+### Frequently asked questions
+
+**Q: What do I do if my employer will not pay my gratuity?**
+
+Raise it in writing with HR first, stating the amount and the 14-day statutory deadline. If that fails, file a free labour complaint with MOHRE via the app, the call centre on 600590000 or a Tas'heel centre. Free zone employees complain to their free zone authority instead.
+
+**Q: How long does my employer have to pay my final settlement?**
+
+14 days from the contract end date under Federal Decree-Law 33/2021. After that you can escalate.
+
+**Q: Does it cost money to file a labour complaint in the UAE?**
+
+Filing with MOHRE is free and you do not need a lawyer to start the process. Be cautious of intermediaries charging significant fees simply to submit the form.
+
+**Q: Should I sign the final settlement if I think it is wrong?**
+
+No. Signing a full-and-final receipt makes a later claim significantly harder. You are entitled to take time to review the calculation before signing.
+
+**Q: Can I still claim after I leave the UAE?**
+
+Your claim does not disappear, but pursuing it from abroad is considerably harder in practice. If there is a dispute, it is much better to begin the process before you depart.
+
+**Q: What evidence do I need?**
+
+Your employment contract above all, since it establishes your basic salary. Also payslips, bank statements, WPS records, your resignation or termination letter, leave records and any written exchange about the unpaid amount.
+
+⚠️ Estimate only — not legal advice. General guidance on the complaint process, not legal advice. Procedures, monetary thresholds and time limits change — confirm the current position with MOHRE or a licensed UAE labour lawyer before relying on any detail here.
+
+Source: Federal Decree-Law No. 33 of 2021 and its amendments (official MOHRE English translation, PDF). The Arabic text prevails.
+
+---
+
+## Arbitrary Dismissal Compensation in the UAE
+
+URL: https://uaesettlement.com/arbitrary-dismissal-compensation/
+
+If you were dismissed for an unlawful reason, compensation of up to three months' pay sits on top of everything else you are owed.
+
+### What "arbitrary dismissal" means
+
+UAE labour law distinguishes between a dismissal that is simply unwelcome and one that is unlawful. An employer may generally end a fixed-term contract by serving the contractual notice — that is lawful, even if you disagree with it.
+
+A dismissal becomes arbitrary when the real reason is illegitimate. Under Article 47(1) of Federal Decree-Law 33/2021, termination is unlawful if it is because the employee filed a serious complaint with MOHRE or a lawsuit against the employer that is proven valid. (The broader "reason unconnected to the work" test came from the repealed 1980 labour law.)
+
+Where arbitrary dismissal is established, the court may award fair compensation of up to three months' wage, calculated on your last wage (Article 47(2)),, on top of your notice pay and gratuity.
+
+### Three situations people confuse
+
+| Situation | Lawful? | What you receive |
+| Termination with proper notice | Lawful | Notice pay (or worked notice) + gratuity + leave + pending salary |
+| Termination without notice, no valid Article 44 ground | Unlawful | The above, plus pay in lieu of the notice not given |
+| Dismissal for an illegitimate reason, e.g. retaliation for a complaint | Arbitrary | The above, plus compensation of up to 3 months' wages | 
+
+The distinction matters because the remedies stack. Arbitrary dismissal compensation does not replace your gratuity or notice pay — it is additional.
+
+### Summary dismissal without notice or gratuity
+
+There is a narrow list of grounds — set out in Article 44 of Federal Decree-Law 33/2021 — on which an employer may dismiss immediately without notice. These include matters such as assuming a false identity, causing substantial deliberate loss to the employer, serious breach of safety instructions, disclosing work secrets, continued failure to perform basic duties after a written investigation and two warnings, and being absent without valid reason for defined periods. (A final custodial sentence of three months or more ends the contract separately, under Article 42.)
+
+Two points are widely misunderstood:
+
+- The list is exhaustive and interpreted strictly. Ordinary poor performance is not enough. Article 44(4) only allows dismissal without notice where the employee keeps failing to perform basic contractual duties despite a written investigation and being warned twice in writing; otherwise performance concerns require the ordinary notice route.
+
+- Even lawful summary dismissal does not automatically cancel gratuity under the current law. The old regime linked the two much more tightly; the 2021 law changed the landscape considerably. Any employer asserting that a dismissal wipes out your accrued gratuity should be asked to identify the legal basis.
+
+### What to do if you think your dismissal was arbitrary
+
+- Get the reason in writing. Ask for the stated ground for dismissal. Employers who dismiss for an illegitimate reason are often reluctant to put a reason on paper, and that reluctance is itself informative.
+
+- Preserve the timeline. If you were dismissed shortly after raising a complaint, requesting unpaid entitlements or taking protected leave, the sequence of dates is the core of your case. Save the emails.
+
+- Do not sign a waiver. A full-and-final settlement signed on the way out makes a later claim considerably harder.
+
+- File with MOHRE. The same complaint route applies. How to file →
+
+- Check your ILOE position. Involuntary dismissal is exactly what unemployment insurance is for. ILOE explained →
+
+### Realistic expectations
+
+Two honest caveats. First, the compensation ceiling is three months' wages — meaningful, but not a windfall, and the court determines the amount based on the circumstances rather than awarding the maximum by default. Second, the burden is on the employee to show the dismissal was for an illegitimate reason, which is much easier when there is a documentary trail and very difficult when the whole exchange was verbal.
+
+This is the practical argument for putting concerns in writing while you are still employed. An email trail created before a dismissal is worth far more than a recollection afterwards.
+
+### Frequently asked questions
+
+**Q: What is arbitrary dismissal in the UAE?**
+
+Dismissal for an illegitimate reason rather than one connected to the work — most clearly, dismissing an employee because they filed a serious complaint with MOHRE or brought a legitimate legal claim against the employer.
+
+**Q: How much compensation can I get for arbitrary dismissal?**
+
+Up to three months' wages, determined by the labour court based on the circumstances. It is paid in addition to your gratuity, notice pay and other final settlement entitlements, not instead of them.
+
+**Q: Can I be dismissed for poor performance without notice?**
+
+Not for ordinary poor performance. Article 44(4) allows dismissal without notice only where you continue to breach your basic duties after a written investigation and two written warnings. Otherwise the employer must use the normal notice route.
+
+**Q: Do I lose my gratuity if I am dismissed for misconduct?**
+
+Not automatically under the current law. The 2021 law changed the position considerably from the older regime. If an employer claims a dismissal cancels your accrued gratuity, ask them to identify the specific legal basis.
+
+**Q: Does being dismissed affect my ILOE claim?**
+
+Involuntary dismissal is precisely what ILOE covers, so you may be able to claim. Dismissal for disciplinary reasons is excluded, as is resignation.
+
+**Q: What is the difference between unlawful and arbitrary dismissal?**
+
+Unlawful usually refers to termination without the required notice or without a valid summary-dismissal ground, remedied by pay in lieu of notice. Arbitrary refers to the reason being illegitimate, which attracts the additional compensation of up to three months' wages.
+
+⚠️ Estimate only — not legal advice. General guidance on UAE labour law, not legal advice. Whether a dismissal is arbitrary is fact-specific and decided by the courts. Consult a licensed UAE labour lawyer about your own circumstances.
+
+Source: Federal Decree-Law No. 33 of 2021 and its amendments (official MOHRE English translation, PDF). The Arabic text prevails.
+
+---
+
+## Limited vs Unlimited Contracts After the 2022 Reform
+
+URL: https://uaesettlement.com/limited-vs-unlimited-contract/
+
+Unlimited contracts no longer exist in the mainland UAE — and the gratuity penalties that came with the old system went with them.
+
+### What actually happened
+
+Under the old UAE Labour Law (Federal Law 8 of 1980), employment contracts came in two forms, and which one you had made an enormous difference to what you received when you left:
+
+- Unlimited contracts had no end date. Resigning before five years of service cut your gratuity to one third (1–3 years) or two thirds (3–5 years).
+
+- Limited contracts ran for a fixed term. Breaking one early exposed you to compensation of up to 45 days' pay, and in some cases a labour ban.
+
+Federal Decree-Law No. 33 of 2021 abolished the distinction. All mainland employment contracts are now fixed-term, and employers were required to migrate existing unlimited contracts onto the new form — a transition whose deadline MOHRE extended to 31 December 2023 (Ministerial Resolution No. 27 of 2023).
+
+### The single most important consequence
+
+The old resignation penalties are gone. Under the current law:
+
+| | Old law (pre-Feb 2022) | Current law |
+| Resign at 2 years | ⅓ of gratuity | Full gratuity |
+| Resign at 4 years | ⅔ of gratuity | Full gratuity |
+| Resign at 6 years | Full gratuity | Full gratuity |
+| Terminated at any point over 1 year | Full gratuity | Full gratuity | 
+
+If you left before February 2022 the old reductions applied to you. If you are leaving now, they do not — regardless of what an older contract template or an out-of-date HR policy says. This is the most common area where employees are underpaid, because so much material online still describes the pre-2022 position.
+
+Calculate your gratuity under the current law →
+
+### What a fixed-term contract means in practice now
+
+"Fixed-term" sounds restrictive but the new regime is considerably more flexible than the old limited contract:
+
+- Contracts are for a defined period and are renewable, automatically in many cases if both parties continue.
+
+- Either party may terminate during the term by giving the contractual notice — typically 30 to 90 days. This is the key change: ending a fixed-term contract early is now a normal, lawful act, not a breach.
+
+- Gratuity is unaffected by who ends the contract or why, provided you have completed one year.
+
+- Automatic labour bans for resigning were removed. Bans now attach to specific circumstances rather than being a routine consequence of leaving.
+
+Notice still matters
+Failing to serve your notice period is still a breach, and your employer can claim compensation in lieu — but that is a separate claim against you, not a reduction of your gratuity. The two must not be conflated, and an employer deducting "resignation penalty" from gratuity is applying a rule that no longer exists. How notice pay works →
+
+### What if my contract still says "unlimited"?
+
+Some employees still hold paperwork referring to unlimited contracts, either because the migration was handled poorly or because nobody reissued the document. The label on the paper does not restore the old law. Your entitlements are determined by the legislation in force when your employment ends, not by the terminology in an old template.
+
+If your employer calculates your settlement using the old one-third or two-thirds reduction, that is a straightforward underpayment and a clear basis for a MOHRE complaint. How to file a complaint →
+
+### Frequently asked questions
+
+**Q: Do unlimited contracts still exist in the UAE?**
+
+No. Federal Decree-Law 33/2021 abolished the distinction and made all mainland employment contracts fixed-term. Employers were required to migrate existing unlimited contracts by the extended deadline of 31 December 2023.
+
+**Q: Does resigning from a limited contract reduce my gratuity?**
+
+No, not under the current law. The old reductions of one third and two thirds for resigning before five years were abolished in February 2022. Anyone with more than one year of service now receives full gratuity whether they resign or are terminated.
+
+**Q: What happens if I break my fixed-term contract early?**
+
+You serve the contractual notice period, typically 30 to 90 days. Terminating early with notice is lawful. If you fail to serve notice, your employer may claim compensation in lieu, but that is a separate claim and does not reduce your gratuity.
+
+**Q: My contract still says unlimited — which rules apply?**
+
+The law in force when your employment ends, which is Federal Decree-Law 33/2021. An outdated label on your paperwork does not revive the old reductions.
+
+**Q: Will I get a labour ban if I resign?**
+
+Automatic bans for resignation were removed with the 2021 law. Bans now attach to specific circumstances rather than being a routine consequence of leaving a job.
+
+**Q: Is my employer allowed to deduct a resignation penalty from my gratuity?**
+
+No. There is no such deduction under the current law. If your settlement shows a reduction because you resigned, it is being calculated under repealed rules and you can challenge it.
+
+⚠️ Estimate only — not legal advice. Covers mainland UAE under Federal Decree-Law No. 33 of 2021. DIFC, ADGM and domestic worker arrangements follow separate regimes. Not legal advice.
+
+Source: Federal Decree-Law No. 33 of 2021 and its amendments (official MOHRE English translation, PDF). The Arabic text prevails.
+
+---
+
+## UAE Unemployment Insurance (ILOE) Explained
+
+URL: https://uaesettlement.com/unemployment-insurance-iloe/
+
+A small monthly premium that pays 60% of your basic salary for up to three months if you lose your job involuntarily.
+
+### What ILOE is
+
+The Involuntary Loss of Employment scheme, introduced by Federal Decree-Law No. 13 of 2022, is a mandatory unemployment insurance for most employees in the mainland UAE and many free zones. You pay a small monthly premium; if you subsequently lose your job through no fault of your own, it pays a cash benefit while you look for work.
+
+It is genuinely insurance, not savings. If you never claim, you do not get the premiums back — which is why the cost is so low.
+
+### The two categories
+
+| | Category A | Category B |
+| Who | Basic salary AED 16,000 or less | Basic salary above AED 16,000 |
+| Premium | AED 5 per month | AED 10 per month |
+| Maximum monthly benefit | AED 10,000 | AED 20,000 | 
+
+Premiums may be paid monthly, quarterly, half-yearly or annually, and there is usually a small VAT charge on top. Subscription is the employee's responsibility, not the employer's — this is the single most common reason people find they are not covered when they need to claim.
+
+### What the benefit actually pays
+
+- 60% of your average basic salary over the six months before you lost your job
+
+- Capped at your category maximum — AED 10,000 or AED 20,000 a month
+
+- Paid for a maximum of three months per claim
+
+- Subject to a lifetime aggregate cap on total months claimed across your career
+
+Note it is 60% of basic, not gross. On a gross salary of AED 20,000 with a basic of AED 12,000, the benefit is 60% of 12,000 = AED 7,200 a month, not 60% of 20,000.
+
+### Who can claim, and who cannot
+
+You can claim if
+
+- You have subscribed for at least 12 consecutive months
+
+- Your job loss was involuntary — redundancy, termination, non-renewal
+
+- You are still in the UAE and legally able to work
+
+- You file within the required window after your job ends — this is short, so do not delay
+
+You cannot claim if
+
+- You resigned
+
+- You were dismissed for disciplinary reasons or gross misconduct
+
+- You have not completed the 12-month subscription period
+
+- You have left the country or are otherwise unavailable for work
+
+- Your premiums were unpaid — a lapsed subscription generally means no cover
+
+The resignation exclusion is fundamental. ILOE covers involuntary loss of employment, which is quite different from gratuity, where resignation makes no difference at all.
+
+### How ILOE relates to your final settlement
+
+They are entirely separate, and one does not reduce the other:
+
+| | Gratuity | ILOE |
+| Paid by | Your employer | The insurance pool |
+| Affected by resignation? | No | Yes — resignation disqualifies you |
+| Based on | Length of service and final basic salary | Average basic salary over the last 6 months |
+| Form | One lump sum | Up to 3 monthly payments | 
+
+Receiving gratuity does not prevent an ILOE claim, and claiming ILOE does not reduce your gratuity. If you are made redundant, you may well be entitled to both.
+
+Calculate your gratuity →
+
+### Frequently asked questions
+
+**Q: What is ILOE in the UAE?**
+
+The Involuntary Loss of Employment scheme, a mandatory unemployment insurance introduced by Federal Decree-Law 13 of 2022. Employees pay a small monthly premium and receive a cash benefit if they lose their job involuntarily.
+
+**Q: How much does ILOE pay?**
+
+60% of your average basic salary over the six months before job loss, capped at AED 10,000 a month for Category A or AED 20,000 for Category B, for a maximum of three months per claim.
+
+**Q: How much does ILOE cost?**
+
+AED 5 a month if your basic salary is AED 16,000 or less, or AED 10 a month if it is above that, plus a small VAT charge. Premiums can be paid monthly or in advance.
+
+**Q: Can I claim ILOE if I resign?**
+
+No. ILOE covers involuntary loss of employment only. Resignation and dismissal for disciplinary reasons both disqualify you from claiming.
+
+**Q: Who is responsible for subscribing to ILOE?**
+
+The employee, not the employer. This surprises many people, and an unpaid or lapsed subscription generally means no cover when you need it.
+
+**Q: Does claiming ILOE reduce my gratuity?**
+
+No. They are entirely separate — gratuity is paid by your employer based on service, while ILOE is paid from an insurance pool. If you are made redundant you may be entitled to both.
+
+⚠️ Estimate only — not legal advice. Summary for general guidance. ILOE premium categories, benefit caps, claim windows and lifetime limits are set by regulation and change — confirm current terms with the official ILOE scheme or MOHRE before relying on any figure.
+
+Source: iloe.ae (official ILOE scheme site).
+
+---
+
+## Dubai Gratuity: Mainland, DIFC and Free Zones
+
+URL: https://uaesettlement.com/dubai-gratuity/
+
+There is no separate “Dubai gratuity law” — but which rules apply to you depends entirely on where your employer is licensed.
+
+### The short answer
+
+People search for "Dubai gratuity law" expecting a Dubai-specific statute. There isn't one. Dubai is an emirate within the UAE federal system, and employment in mainland Dubai is governed by the same law as the rest of the country: Federal Decree-Law No. 33 of 2021.
+
+What genuinely differs is not the emirate but the jurisdiction your employer is licensed in. Three quite different regimes operate inside Dubai's borders:
+
+| Where you work | Which rules apply | What you get |
+| Mainland Dubai (DED licence) | Federal Decree-Law 33/2021 | 21 days basic per year for 5 years, then 30 days |
+| DIFC | DIFC Employment Law No. 2 of 2019 | Monthly DEWS contributions into a funded plan |
+| Other Dubai free zones (JAFZA, DMCC, Dubai South, DAFZA…) | Free zone rules, which mostly mirror the federal law | Usually the same 21/30 day formula | 
+
+Check your labour card or employment contract — it names the licensing authority. That single fact determines your entitlement.
+
+### Mainland Dubai: the standard federal formula
+
+If your employer holds a Dubai Department of Economy and Tourism licence, your gratuity is the federal calculation:
+
+- Daily wage = monthly basic salary ÷ 30
+
+- 21 days of basic pay for each of the first five years
+
+- 30 days of basic pay for each year beyond five
+
+- Minimum one year of continuous service; total capped at two years' wages
+
+- Payable within 14 days of the contract ending
+
+Since February 2022, resignation no longer reduces the amount — the old sliding scale that cut gratuity to a third or two-thirds for resigning employees was abolished with the previous law.
+
+Calculate your Dubai gratuity →
+
+### DIFC is genuinely different — and it is not gratuity at all
+
+The Dubai International Financial Centre operates its own legal system. Since 1 February 2020 it has replaced end-of-service gratuity with DEWS, the DIFC Employee Workplace Savings plan. Instead of a lump sum calculated when you leave, your employer pays a monthly contribution into a funded, invested account in your name.
+
+The practical differences matter:
+
+- The money is already yours and held outside the employer, so an employer's insolvency does not put it at risk
+
+- It is invested, so the final amount depends partly on investment returns
+
+- It accrues from day one — there is no one-year qualifying period
+
+Full explanation of DIFC and DEWS →
+
+### Other Dubai free zones
+
+JAFZA, DMCC, Dubai South, DAFZA, Dubai Silicon Oasis and the rest are not separate legal jurisdictions in the way DIFC is. They administer their own employment procedures but the substantive end-of-service entitlement generally follows the federal 21/30 day formula.
+
+The practical difference is usually in the process rather than the amount — visa cancellation, dispute routes and complaint handling go through the free zone authority rather than MOHRE. More on free zone gratuity →
+
+### Two Dubai-specific things worth knowing
+
+The Wage Protection System
+Mainland employers must pay salaries through the Wage Protection System, which creates an electronic record of every payment. If you are disputing unpaid salary, WPS records are strong evidence and MOHRE can see them directly.
+
+Your visa is tied to your employer, not your gratuity
+Employers sometimes imply that gratuity is discretionary or conditional on how you leave. It is a statutory entitlement. Visa cancellation and your final settlement are separate processes, and an employer cannot lawfully withhold gratuity as leverage in a visa or handover dispute.
+
+### Frequently asked questions
+
+**Q: Is there a separate Dubai gratuity law?**
+
+No. Mainland Dubai follows UAE Federal Decree-Law No. 33 of 2021, the same as the rest of the country. What differs is the jurisdiction your employer is licensed in — DIFC in particular has an entirely different system.
+
+**Q: How is gratuity calculated in Dubai?**
+
+For mainland employers: 21 days of basic salary for each of the first five years, then 30 days for each year after, with the daily wage usually taken as basic salary divided by 30. Minimum one year of service, capped at two years' wages.
+
+**Q: Do DIFC employees get gratuity?**
+
+Not as a lump sum. Since February 2020, DIFC employers contribute monthly to the DEWS savings plan instead. The money accrues from day one and is held outside the employer.
+
+**Q: Is gratuity in free zones like JAFZA different from mainland?**
+
+Generally no in substance — most Dubai free zones follow the same 21/30 day formula. The difference is procedural: disputes and visa cancellation go through the free zone authority rather than MOHRE.
+
+**Q: Can my Dubai employer refuse gratuity if I resign?**
+
+No. Since February 2022 resignation no longer reduces gratuity. Anyone with more than one year of continuous service gets the full calculation.
+
+**Q: How long does my Dubai employer have to pay?**
+
+14 days from the contract end date, under the federal law. That deadline applies in mainland Dubai and in most free zones.
+
+⚠️ Estimate only — not legal advice. This page covers mainland Dubai under Federal Decree-Law 33/2021 plus a summary of DIFC and free zone positions. Free zone rules change; confirm with your free zone authority or a licensed UAE labour lawyer.
+
+Source: Federal Decree-Law No. 33 of 2021 and its amendments (official MOHRE English translation, PDF). The Arabic text prevails.
+
+---
+
+## Free Zone Gratuity in the UAE
+
+URL: https://uaesettlement.com/free-zone-gratuity/
+
+Most free zones follow the federal formula. Two do not — and the difference is worth tens of thousands of dirhams.
+
+### The rule of thumb
+
+The UAE has more than forty free zones. For end-of-service purposes they fall into two groups:
+
+| Group | Free zones | End of service |
+| Federal-aligned (the large majority) | JAFZA, DMCC, DAFZA, Dubai South, Dubai Silicon Oasis, SAIF Zone, Hamriyah, RAKEZ, Ajman Free Zone, KIZAD, Masdar City and others | The federal 21/30 day gratuity formula |
+| Separate financial free zones | DIFC and ADGM | DIFC: DEWS savings plan instead of gratuity. ADGM: its own gratuity rules (21/30 days' basic wage, capped at two years' wage), or an employer pension alternative | 
+
+The distinction exists because DIFC and ADGM are financial free zones established under the UAE Constitution with the power to make their own civil and commercial law. Ordinary free zones are administrative, not legislative — they can set their own procedures but not displace federal employment law.
+
+### If you work in a federal-aligned free zone
+
+Your entitlement is the standard calculation:
+
+- Daily wage = monthly basic salary ÷ 30
+
+- 21 days of basic pay per year for the first five years
+
+- 30 days of basic pay per year after five
+
+- One year minimum service; capped at two years' wages
+
+- Payable within 14 days of the contract ending
+
+Calculate your gratuity →
+
+What genuinely differs: the process
+Where free zones diverge is in administration, and this catches people out when something goes wrong:
+
+- Your employment contract is registered with the free zone authority, not MOHRE
+
+- Visa cancellation runs through the free zone's own immigration channel
+
+- Disputes usually go to the free zone authority first, not the MOHRE call centre
+
+- Some free zones require an employer to deposit a bank guarantee per employee, which can be a genuine advantage if the employer fails
+
+### How to find out which regime applies to you
+
+Do not rely on the office address — a company in a Dubai tower can be licensed anywhere. Check instead:
+
+- Your employment contract. It names the issuing authority on the first page or in the signature block.
+
+- Your residence visa and labour card. These name the sponsoring authority.
+
+- Your employer's trade licence. Ask HR for a copy; the licensing body is printed on it.
+
+If the licence says DIFC, you are in the DEWS savings-scheme regime and the 21/30 day formula does not describe your entitlement. If it says ADGM, the ADGM Employment Regulations 2019 apply: a similar 21/30-day gratuity on basic wage, unless your employer offers an approved pension alternative. Anything else, and the federal formula almost certainly does.
+
+### A common misconception about free zone contracts
+
+Some free zone employers present their internal employment regulations as though they override the federal law entirely. In general they cannot reduce statutory minimums for employees outside DIFC and ADGM. A free zone rule or contract clause that gives you less than the federal entitlement is on weak ground; one that gives you more is perfectly valid and enforceable.
+
+The same principle applies to contract terms generally — the federal law sets a floor, not a ceiling. An employer may always be more generous.
+
+### Frequently asked questions
+
+**Q: Do free zone employees get gratuity in the UAE?**
+
+Yes, in almost all free zones, using the same federal formula of 21 days of basic salary per year for the first five years and 30 days after. The exceptions are DIFC, which replaced gratuity with the DEWS savings plan, and ADGM, which has its own Employment Regulations with a similar 21/30-day gratuity.
+
+**Q: Is JAFZA or DMCC gratuity different from mainland?**
+
+Not in the amount. Both follow the federal 21/30 day formula. What differs is administration — contract registration, visa cancellation and dispute handling go through the free zone authority rather than MOHRE.
+
+**Q: Which UAE free zones do not pay traditional gratuity?**
+
+DIFC. It replaced end-of-service gratuity with the DEWS workplace savings plan in 2020. ADGM, the other financial free zone, still has a gratuity under section 59 of its Employment Regulations 2019 (21 days' basic wage a year for the first five years, 30 after, capped at two years' wage), although employers may offer a pension scheme instead.
+
+**Q: How do I know which free zone I work in?**
+
+Check your employment contract, residence visa or your employer's trade licence — each names the licensing authority. The physical office location is not a reliable guide.
+
+**Q: Can a free zone contract give me less gratuity than federal law?**
+
+Outside DIFC and ADGM, generally no. Federal entitlements act as a floor. A contract offering more than the statutory minimum is valid; one offering less is on weak ground.
+
+**Q: Who do I complain to if a free zone employer will not pay?**
+
+Start with the free zone authority that registered your contract, as they handle disputes in the first instance. If that route fails, the matter can escalate to the courts.
+
+⚠️ Estimate only — not legal advice. General guidance on free zone practice. Individual free zones set their own regulations and these change — confirm with your free zone authority. DIFC and ADGM operate entirely separate legal systems.
+
+Source: Federal Decree-Law No. 33 of 2021 and its amendments (official MOHRE English translation, PDF). The Arabic text prevails.
+
+---
+
+## DIFC End of Service & the DEWS Scheme
+
+URL: https://uaesettlement.com/difc-dews/
+
+The DIFC scrapped end-of-service gratuity in 2020 and replaced it with a funded savings plan. Here is what that means for your money.
+
+### What changed in 2020
+
+Before February 2020, DIFC employees received an end-of-service gratuity much like the rest of the UAE: a lump sum calculated on final salary and length of service, paid when they left. The problem with that model is that it is an unfunded promise — the money sits on the employer's balance sheet until the day it is owed, and if the employer fails, the employee is an unsecured creditor.
+
+The DIFC Employment Law No. 2 of 2019 replaced it with DEWS — the DIFC Employee Workplace Savings plan. Employers now make monthly contributions into a trust-based, professionally managed plan held entirely outside the company.
+
+### How much is contributed
+
+| Length of service | Monthly employer contribution |
+| First 5 years | 5.83% of monthly basic salary |
+| After 5 years | 8.33% of monthly basic salary | 
+
+Those percentages are not arbitrary. They are the old gratuity formula expressed as a monthly rate: 21 days a year is 21 ÷ 360 = 5.83%, and 30 days a year is 30 ÷ 360 = 8.33%. The intent was to reproduce the same economic value, just funded as you go.
+
+You can also make voluntary employee contributions on top, which is what turns DEWS from a severance substitute into an actual savings vehicle.
+
+### Why this is better for the employee
+
+- It accrues from day one. There is no one-year qualifying period, so short-service employees are not left with nothing.
+
+- It is protected from employer insolvency. The assets sit in a trust, not on the company balance sheet.
+
+- It is invested. Contributions go into funds you select from a risk-rated range, so the balance can grow rather than simply sitting still.
+
+- It is portable within the DIFC. Moving between DIFC employers does not reset anything.
+
+### And the trade-offs
+
+- It is based on salary as you earn it, not final salary. Under the old gratuity model, a large promotion late in your career raised the value of every prior year. Under DEWS, early years were funded at your early salary.
+
+- Investment risk sits with you. The final balance depends on fund performance, which can fall as well as rise.
+
+- Access is restricted. Funds are generally paid out when you leave DIFC employment, not on demand.
+
+For a long-serving employee whose salary rose steeply, the old gratuity model could well have paid more. For most others — and for anyone whose employer might fail — DEWS is materially safer.
+
+### Grandfathered service before February 2020
+
+Service accrued before the switch did not disappear. Employers had to deal with the pre-2020 period in one of two ways: either pay the accrued gratuity as a lump sum into DEWS, or keep a record of the accrued entitlement to be paid on termination based on the old formula and the employee's salary at the transfer date.
+
+If you joined a DIFC employer before February 2020, ask specifically how your pre-2020 service was treated — it is a separate pot from your ongoing DEWS contributions and it is easy to overlook in a final settlement.
+
+### What DEWS does not replace
+
+DEWS covers the end-of-service benefit only. The rest of your final settlement is unchanged and still owed separately:
+
+- Unused annual leave, encashed
+
+- Notice pay, where applicable
+
+- Pending salary to your last working day
+
+- Any contractual bonus, commission or repatriation ticket
+
+ADGM in Abu Dhabi is different: its Employment Regulations 2019 keep an end-of-service gratuity (21 days' basic wage a year for the first five years, 30 after, capped at two years' wage), although an employer may offer a pension scheme instead. Do not assume the DIFC position applies there.
+
+### Frequently asked questions
+
+**Q: Do DIFC employees still get end-of-service gratuity?**
+
+Not as a traditional lump sum. Since 1 February 2020, DIFC employers contribute monthly to the DEWS workplace savings plan instead. The end-of-service benefit is the accumulated value of that account.
+
+**Q: How much does my employer contribute to DEWS?**
+
+5.83% of monthly basic salary for the first five years of service, rising to 8.33% after five years. Those figures mirror the old 21-day and 30-day gratuity formulas expressed monthly.
+
+**Q: Is DEWS better than gratuity?**
+
+For most employees yes, because it accrues from day one, is protected from employer insolvency and is invested. The trade-off is that it is funded on your salary as you earn it rather than your final salary, so a late large promotion is worth less than it would have been under the old system.
+
+**Q: What happened to my service before February 2020?**
+
+It was either paid into DEWS as a lump sum or recorded as an accrued entitlement calculated on the old formula and your salary at the transfer date. Ask your employer specifically, as it is a separate pot from your ongoing contributions.
+
+**Q: When can I access my DEWS money?**
+
+Generally when you leave DIFC employment. It is a workplace savings plan rather than an instant-access account, though voluntary contributions may have different terms.
+
+**Q: Does DEWS apply in ADGM too?**
+
+No. ADGM has its own Employment Regulations 2019, which keep a gratuity of 21 days' basic wage a year for the first five years and 30 after (capped at two years' wage), unless the employer offers a pension scheme instead.
+
+⚠️ Estimate only — not legal advice. Summary of the DIFC position for general guidance. DIFC Employment Law and DEWS scheme terms change over time — confirm current contribution rates and rules with the DIFC Authority or your plan administrator.

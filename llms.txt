@@ -1,35 +1,43 @@
-# UAE Settlement Calculator
+# UAE Settlement (uaesettlement.com)
 
-> Free UAE full & final settlement calculator (end-of-service gratuity + unused annual leave encashment + notice-period pay + pending salary), computed per UAE Federal Decree-Law No. 33 of 2021. A Servia Group (servia.ae) project — more Gulf/GCC end-of-service and labour-law calculators at calcnate.com.
+> Free calculators and plain-English guides for UAE end-of-service entitlements: end-of-service gratuity, unused annual leave, notice pay, pending salary and the full and final settlement. Mainland figures follow UAE Federal Decree-Law No. 33 of 2021 on the Regulation of Labour Relations; domestic workers are covered separately under Federal Decree-Law No. 9 of 2022. Published by Servia Group (servia.ae). General information, not legal advice. Content last reviewed 2026-09-26.
 
-## Calculator
-- [UAE Full & Final Settlement Calculator](https://uaesettlement.com/): Computes what a departing UAE employee is owed in one figure — end-of-service gratuity (21 days basic salary/year for the first 5 years, 30 days/year after, capped at 2 years' wages, min. 1 year service), unused annual leave encashed at basic wage, notice-period pay in lieu (if the employer ended the contract without notice), plus any pending unpaid salary, minus documented deductions such as loans or advances. Resignation no longer reduces gratuity since Decree-Law 33/2021.
+Key facts (mainland UAE private sector, Federal Decree-Law No. 33 of 2021):
+- Gratuity (Article 51): 21 days' basic wage for each of the first five years of service, 30 days' basic wage for each additional year, pro rata for part years; requires at least one year of continuous service; total capped at two years' wage. Days of unpaid absence do not count as service.
+- Resigning does not reduce gratuity under the 2021 law (the old unlimited-contract reductions no longer apply).
+- All end-of-service dues must be paid within 14 days of the contract ending (Article 53).
+- The calculators use a daily wage of basic monthly salary divided by 30.
+- DIFC and ADGM have their own employment laws: DIFC replaced gratuity with the DEWS savings plan; ADGM keeps a similar 21/30-day gratuity under its Employment Regulations 2019. Most other free zones follow the federal formula.
+- Claims under the federal labour law are not heard after two years from the end of employment (Article 54(9), as amended by Federal Decree-Law No. 9 of 2024). MOHRE decides claims of up to AED 50,000 itself.
+- Domestic workers (Federal Decree-Law No. 9 of 2022): the law contains no gratuity formula (Article 22 leaves the rules to the Cabinet); dues must be paid within 10 days of the contract ending; claims are time-barred 3 months after the work relationship ends.
 
-## Guides & articles
-- [UAE Full & Final Settlement: The Complete 2026 Guide](https://uaesettlement.com/guide/): What's included in a settlement, how each component is calculated, the 14-day payment deadline, and what to do (MOHRE complaint process) if an employer is late or underpays.
-- [UAE Gratuity Law Explained: Federal Decree-Law No. 33 of 2021](https://uaesettlement.com/gratuity-law-2021/): A plain-English breakdown of the law that governs UAE end-of-service gratuity — the 21/30-day formula, the 2-year wage cap, and what changed for employees who resign (resignation no longer reduces gratuity).
-- [UAE Notice Period Pay: How Much Are You Owed?](https://uaesettlement.com/notice-period/): How UAE notice-period pay works — the standard 30-90 day contractual range, what happens if an employer ends a contract without giving notice, and how pay in lieu is calculated on gross salary.
-- [Domestic Worker Gratuity in the UAE: Maids, Nannies & Drivers](https://uaesettlement.com/domestic-workers-gratuity/): The separate regime for the 19 domestic-worker occupations under Federal Decree-Law No. 9 of 2022 — why the current law contains NO gratuity formula (Article 22 delegates it to the Cabinet; the "14 days per year" figure comes from the repealed Federal Law No. 10 of 2017), what IS clearly owed at end of service (unpaid wages, unused annual-leave cash at last wage, return ticket, 10-day settlement deadline), a domestic-worker vs mainland-employee comparison table, and the MOHRE claim process (AED 50,000 ministry adjudication, court-fee exemption, 3-month time bar).
+## Calculators
+- [UAE Final Settlement Calculator](https://uaesettlement.com/): gratuity, unused leave, pending salary and notice pay minus documented deductions, in one figure.
+- [UAE End of Service Calculator](https://uaesettlement.com/end-of-service-calculator/): gratuity only, with the 21-day and 30-day bands and the two-year cap shown separately, plus a worked example.
+- [UAE Leave Salary Calculator](https://uaesettlement.com/leave-salary-calculator/): accrued annual leave and its cash value at the end of service.
 
-## Structured data
-Every page carries schema.org JSON-LD: WebApplication (the calculator) or Article (the guides), FAQPage with real question/answer pairs matching the on-page content, and BreadcrumbList. A sitemap is at https://uaesettlement.com/sitemap.xml.
+## Guides
+- [Domestic Worker Gratuity in the UAE](https://uaesettlement.com/domestic-workers-gratuity/): maids, nannies and drivers under Federal Decree-Law No. 9 of 2022; what the law says about end-of-service pay, where the "14 days per year" figure comes from (the repealed Federal Law No. 10 of 2017), what is owed and how to claim through MOHRE.
+- [UAE Gratuity Law Explained](https://uaesettlement.com/gratuity-law-2021/): the Article 51 formula, the cap, and what changed in 2022 for employees who resign.
+- [UAE Full and Final Settlement Guide](https://uaesettlement.com/guide/): every component of a settlement, the 14-day deadline and what to do if you are underpaid.
+- [Gratuity After 5 Years](https://uaesettlement.com/gratuity-after-5-years/): how the 30-day rate applies only to years beyond the fifth, with worked examples.
+- [UAE Notice Period Pay](https://uaesettlement.com/notice-period/): notice periods of 30 to 90 days and pay in lieu of notice.
+- [Unpaid Salary or Gratuity: MOHRE Complaint](https://uaesettlement.com/unpaid-salary-complaint/): how to file a labour complaint and what evidence to keep.
+- [Arbitrary Dismissal Compensation](https://uaesettlement.com/arbitrary-dismissal-compensation/): what counts as arbitrary dismissal and compensation of up to three months' wage.
+- [Limited vs Unlimited Contracts](https://uaesettlement.com/limited-vs-unlimited-contract/): why all mainland contracts are now fixed-term.
+- [UAE Unemployment Insurance (ILOE)](https://uaesettlement.com/unemployment-insurance-iloe/): who must subscribe, premiums, and the benefit of 60% of basic salary for up to three months.
+- [Dubai Gratuity](https://uaesettlement.com/dubai-gratuity/): mainland Dubai versus DIFC and free zones.
+- [Free Zone Gratuity](https://uaesettlement.com/free-zone-gratuity/): most free zones follow the federal formula; DIFC (DEWS) and ADGM (own regulations) differ.
+- [DIFC End of Service and DEWS](https://uaesettlement.com/difc-dews/): the DIFC Employee Workplace Savings plan that replaced gratuity in 2020.
 
-## Trust & sourcing
-Figures are computed directly from UAE Federal Decree-Law No. 33 of 2021 (the UAE Labour Law) and its executive regulations — no invented numbers. This is a free calculator tool, not legal advice; users with a real dispute should confirm with MOHRE or a labour lawyer.
+## Sources
+- Federal Decree-Law No. 33 of 2021 and amendments, official MOHRE English translation (PDF): https://www.mohre.gov.ae/assets/download/e82f7872/Federal%20Decree-Law%20No.%2033%20of%202021%20Regarding%20the%20Regulation%20of%20Employment%20Relationship%20and%20its%20amendments_638990571068264034.pdf.aspx
+- Federal Decree-Law No. 9 of 2022 on domestic workers, official MOHRE English translation (PDF): https://mohre.gov.ae/assets/download/c6b892/Federal%20Decree-Law%20No.%209%20of%202022%20Concerning%20Domestic%20Workers.pdf.aspx
+- UAE legislation portal: https://uaelegislation.gov.ae
+- UAE Government portal: https://u.ae
+- Ministry of Human Resources and Emiratisation (MOHRE): https://www.mohre.gov.ae (call centre 600590000)
 
-## Related
-- Sister site with the same methodology, plus GCC-wide (Saudi, Qatar, Kuwait, Bahrain, Oman) and international end-of-service/leave/notice/probation/maternity calculators: https://calcnate.com
-- Parent company: https://servia.ae
-- Contact: support@servia.ae
-
-## Calculators & guides added 2026-08-30
-- [UAE End of Service Calculator](https://uaesettlement.com/end-of-service-calculator/): Calculate your UAE end-of-service gratuity under Federal Decree-Law 33/2021: 21 days of basic pay per year for the first five years, 30 days per year after, with the two-year cap applied.
-- [UAE Leave Salary & Encashment Calculator](https://uaesettlement.com/leave-salary-calculator/): Calculate UAE leave salary and unused annual leave encashment: 30 calendar days a year after one year of service, accrued at 2 days a month between six and twelve months, paid on basic salary.
-- [Dubai Gratuity: Mainland, DIFC and Free Zones](https://uaesettlement.com/dubai-gratuity/): How gratuity works in Dubai in 2026. There is no separate Dubai gratuity law — mainland Dubai follows the federal law, while DIFC runs the DEWS scheme and free zones vary. Here is which applies to you.
-- [DIFC End of Service & the DEWS Scheme](https://uaesettlement.com/difc-dews/): How end-of-service works in the DIFC: the DEWS workplace savings plan replaced gratuity in 2020, with monthly employer contributions of 5.83% or 8.33% of basic salary held outside the employer.
-- [Free Zone Gratuity in the UAE](https://uaesettlement.com/free-zone-gratuity/): How end-of-service gratuity works in UAE free zones. Most follow the federal 21/30 day formula, but DIFC and ADGM run separate savings schemes. Here is how to tell which applies to you.
-- [Limited vs Unlimited Contracts After the 2022 Reform](https://uaesettlement.com/limited-vs-unlimited-contract/): Unlimited contracts were abolished in the UAE. All mainland employment is now fixed-term, and the old early-termination penalties that cut gratuity no longer exist. Here is what replaced them.
-- [Gratuity After 5 Years: the 21 vs 30 Day Bands](https://uaesettlement.com/gratuity-after-5-years/): What happens to UAE gratuity after five years of service. The 30-day rate applies only to years beyond the fifth — it does not retroactively upgrade your first five years. Worked examples included.
-- [Unpaid Salary or Gratuity: How to Complain to MOHRE](https://uaesettlement.com/unpaid-salary-complaint/): Step-by-step guide to filing a UAE labour complaint when an employer will not pay your salary, gratuity or final settlement — the MOHRE process, evidence to gather, and what happens next.
-- [UAE Unemployment Insurance (ILOE) Explained](https://uaesettlement.com/unemployment-insurance-iloe/): How the UAE's ILOE unemployment insurance scheme works: who must subscribe, the two premium categories, the 60% of basic salary benefit, the three-month limit and how to claim.
-- [Arbitrary Dismissal Compensation in the UAE](https://uaesettlement.com/arbitrary-dismissal-compensation/): What counts as arbitrary or unlawful dismissal under UAE labour law, the compensation of up to three months' wages, and how it sits alongside gratuity and notice pay.
+## Optional
+- [Full plain-text content of every page](https://uaesettlement.com/llms-full.txt)
+- [Contact](https://uaesettlement.com/contact/): questions and corrections; email support@servia.ae
+- [Sitemap](https://uaesettlement.com/sitemap.xml)
