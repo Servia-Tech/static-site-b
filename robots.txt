@@ -66,6 +66,6 @@ User-agent: CCBot
 Allow: /
 
 User-agent: Bytespider
-Disallow: /
+Allow: /
 
 Sitemap: https://uaesettlement.com/sitemap.xml
